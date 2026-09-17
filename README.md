@@ -22,4 +22,4 @@ I am a 3rd-year Software Engineering student at CINEC Campus, passionate about b
 * **FinPlan:** A full-stack financial management application to track expenses and manage personal budgets.
 
 ### 📊 GitHub Stats
-![Dineth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dineth1008&show_icons=true&theme=radium)
+<img src="https://github-readme-stats.vercel.app/api?username=Dineth1008&show_icons=true&theme=radical" alt="Dineth's GitHub stats" />
