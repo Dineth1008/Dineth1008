@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="Dineth Sewmina Kalu Arachci" />
+  <img src="header.svg" width="100%" alt="Dineth Sewmina Banner" />
   
   <br/>
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7CFFB2&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
@@ -16,7 +20,7 @@ I am a Software Engineering undergraduate at CINEC Campus, focused on full-stack
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dineth1008&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api username=Dineth1008&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth1008&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
@@ -29,13 +33,4 @@ I am a Software Engineering undergraduate at CINEC Campus, focused on full-stack
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dineth1008/Dineth1008/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dineth1008/Dineth1008/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<div align="center">
-  <a href="www.linkedin.com/in/dineth-sewmina-kaluarachchi-856710321">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@TargetICT">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Target ICT" />
-  </a>
 </div>
