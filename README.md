@@ -1,25 +1,32 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="Dineth Sewmina Animated Banner" />
+  <img src="header.svg" width="100%" alt="Dineth Sewmina Kalu Arachci" />
+  
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7CFFB2&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
-### 👋 Hi there, I'm Dineth!
-I am a Software Engineering undergraduate at CINEC Campus, focused on full-stack web and mobile application development. I love blending clean code with thoughtful UI/UX design. Beyond coding, I'm an active member of IEEE and AIESEC, and I create educational tech content.
+<br/>
 
-### 🛠️ Tech Stack & Tools
-* **Frontend:** React, Next.js, JavaScript, HTML, CSS, Tailwind
+### 👋 About Me
+I am a Software Engineering undergraduate at CINEC Campus, focused on full-stack web and mobile application development. I love blending clean code with thoughtful UI/UX design.
+
+### 🛠️ Tech Stack
+* **Frontend:** React, Next.js, HTML, CSS, Tailwind
 * **Mobile & Design:** Flutter, Dart, Figma
-* **Backend & Databases:** Node.js, PHP, MySQL, Firebase Firestore
+* **Backend & Database:** Node.js, PHP, MySQL, Firebase
 
-### 🚀 Highlighted Projects
-* **Tech Care:** An IT support ticketing system built with React, Tailwind, and Firebase.
-* **MicroMate:** A web-based freelance marketplace for students using HTML, CSS, JS, and Firebase.
-* **PXXEL-PLAY:** A dark-themed movie browsing application focusing on immersive UI/UX.
-* **FinPlan:** A full-stack financial management application for tracking expenses and budgets.
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dineth1008&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth1008&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
 <br/>
 
 ### 🐍 My GitHub Contributions
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dineth1008/Dineth1008/output/github-contribution-grid-snake-dark.svg">
@@ -28,11 +35,9 @@ I am a Software Engineering undergraduate at CINEC Campus, focused on full-stack
   </picture>
 </div>
 
-
-
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="www.linkedin.com/in/dineth-sewmina-kaluarachchi-856710321">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit" alt="LinkedIn" />
   </a>
   <a href="https://youtube.com/@TargetICT">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Target ICT" />
