@@ -19,7 +19,7 @@ I am a Software Engineering undergraduate at CINEC Campus, focused on full-stack
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/apiusername=Dineth1008&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dineth1008&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineth1008&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
